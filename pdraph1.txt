@@ -1,0 +1,15 @@
+main{
+	cg A = [0.1,1.2 (0,1,1,0,0),0.6,1.2(1,0,1,1,0),0.5,5.9(1,1,0,0,1),0.5,1.3(0,1,0,0,0),0.4,4.5(0,0,1,0,0)];
+	//A.insert(0.5,1.3(1,0,1,0,1,1));
+	cg_var variable = 0.5,1.3(1,0,1,0,1,1);
+	A.insert(cgvar);
+	vector<cg_var> vector_cg;
+	vector_cg.insert(variable);
+	A.insert(cg_vector);
+	A.dijkstra(1,5);
+}
+
+informe por si hay cambios o modificaciones. guia codigo
+explicacion cod
+reporte de errores
+analizado lexico
