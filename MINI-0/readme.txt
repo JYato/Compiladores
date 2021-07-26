@@ -1,0 +1,1 @@
+Video resubido con calidad de imagen mejorada
