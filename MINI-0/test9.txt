@@ -1,0 +1,1 @@
+iden:int,iden2:char,iden3:bool,iden4:boooool

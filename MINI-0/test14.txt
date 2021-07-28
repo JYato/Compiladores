@@ -1,0 +1,9 @@
+while a > b
+c = a * b
+loop
+if a < b
+c = a + b
+else
+c = a / b
+return a
+end

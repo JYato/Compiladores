@@ -1,0 +1,7 @@
+fun sumar(): int
+	a=24+34
+	b=12+34
+	while(a = b)
+	return a
+	end
+end

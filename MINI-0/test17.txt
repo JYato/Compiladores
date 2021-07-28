@@ -1,0 +1,5 @@
+while a = b
+expresion:int
+exp3:char
+a = b
+loop

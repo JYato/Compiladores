@@ -1,0 +1,7 @@
+bloque:int
+if bloque = 2
+	return 2
+else if bloque = 3
+	return 3
+end
+end

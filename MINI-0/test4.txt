@@ -1,0 +1,6 @@
+
+iden:bool
+fun sumar()
+	a:int
+	a=123
+end

@@ -1,0 +1,16 @@
+arr: int
+arr5 : char
+supercadena: []char
+cadena: string
+
+fun sumar(a: int, b: int) : int
+c:char
+if a < b
+d: char
+e: int
+if d > e
+x = e
+a: int
+c: bool
+return
+end
